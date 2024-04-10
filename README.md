@@ -46,18 +46,19 @@ Welcome to the Investment Decision Recommendation System documentation! This sys
 
 - **Dashboard Integration:** Integrated Power BI dashboards into the system to provide interactive and insightful visualizations. Analyzed gender distribution, city distribution, return earned distribution, knowledge about investment, and household income.
 
-## Conclusion
-
-The Investment Decision Recommendation System leverages data preprocessing, model selection, evaluation, visualization, user interface, and Power BI analysis to assist users in making better investment decisions. The systematic approach ensures reliability, accuracy, and user-friendliness throughout the system.
-
-This documentation and code were purely done by Varsha S pursuing Data Science from PSG College Of Technology for the test conducted by Buckman Laboratories for the Internship Opportunity. Thank you for your time and consideration.
-
 ## Gallery 🖼️
 Here are some resized visualizations
 
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis1.jpg" alt="Visualization 1" idth="200">
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis3.jpg" alt="Visualization 2" idth="200">
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis5.jpg" alt="Visualization 3" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis9.jpg" alt="Visualization 4" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis11.jpg" alt="Visualization 5" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis11.jpg" alt="Visualization 4" idth="200">
 There are many more visualziations available in the document
+
+
+
+## Conclusion
+
+The Investment Decision Recommendation System leverages data preprocessing, model selection, evaluation, visualization, user interface, and Power BI analysis to assist users in making better investment decisions. The systematic approach ensures reliability, accuracy, and user-friendliness throughout the system.
+
+This documentation and code were purely done by Varsha S pursuing Data Science from PSG College Of Technology for the test conducted by Buckman Laboratories for the Internship Opportunity. Thank you for your time and consideration.
