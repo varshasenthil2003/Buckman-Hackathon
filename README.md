@@ -53,3 +53,6 @@ The Investment Decision Recommendation System leverages data preprocessing, mode
 This documentation and code were purely done by Varsha S pursuing Data Science from PSG College Of Technology for the test conducted by Buckman Laboratories for the Internship Opportunity. Thank you for your time and consideration.
 
 ## Gallery 🖼️
+Here are some resized visualizations
+
+<img src="https://github.com/varshasenthil2003/.jpg" alt="Visualization 1" idth="400">
