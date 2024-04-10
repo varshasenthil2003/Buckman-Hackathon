@@ -51,3 +51,5 @@ Welcome to the Investment Decision Recommendation System documentation! This sys
 The Investment Decision Recommendation System leverages data preprocessing, model selection, evaluation, visualization, user interface, and Power BI analysis to assist users in making better investment decisions. The systematic approach ensures reliability, accuracy, and user-friendliness throughout the system.
 
 This documentation and code were purely done by Varsha S pursuing Data Science from PSG College Of Technology for the test conducted by Buckman Laboratories for the Internship Opportunity. Thank you for your time and consideration.
+
+## Gallery 🖼️
