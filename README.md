@@ -55,7 +55,12 @@ Here are some resized visualizations
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis11.jpg" alt="Visualization 4" idth="200">
 There are many more visualziations available in the document
 
-
+### INTERACTIVE DASHBOARDS:
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/dashboard/dashboard1.jpg" alt="Gender Distribution" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/dashboard/dashboard2.jpg" alt="City Distribution" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/dashboard/dashboard3.jpg" alt="Return Earned" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/dashboard/dashboard4.jpg" alt="Knowledge" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/dashboard/dashboard5.jpg" alt="Household Income" idth="200">
 
 ## Conclusion
 
