@@ -57,9 +57,7 @@ Here are some resized visualizations
 
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis1.jpg" alt="Visualization 1" idth="200">
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis3.jpg" alt="Visualization 2" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis4.jpg" alt="Visualization 3" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis5.jpg" alt="Visualization 4" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis8.jpg" alt="Visualization 5" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis9.jpg" alt="Visualization 6" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis10.jpg" alt="Visualization 7" idth="200">
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis11.jpg" alt="Visualization 8" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis5.jpg" alt="Visualization 3" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis9.jpg" alt="Visualization 4" idth="200">
+<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis11.jpg" alt="Visualization 5" idth="200">
+There are many more visualziations available in the document
