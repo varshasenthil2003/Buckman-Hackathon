@@ -48,12 +48,10 @@ Welcome to the Investment Decision Recommendation System documentation! This sys
 
 ## Gallery 🖼️
 Here are some resized visualizations
-
-<img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis1.jpg" alt="Visualization 1" idth="200">
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis3.jpg" alt="Visualization 2" idth="200">
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis5.jpg" alt="Visualization 3" idth="200">
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/Visualizations/vis11.jpg" alt="Visualization 4" idth="200">
-There are many more visualziations available in the document
+There are many more visualizations available in the document
 
 ### INTERACTIVE DASHBOARDS:
 <img src="https://github.com/varshasenthil2003/Buckman-Hackathon/blob/main/dashboard/dashboard1.jpg" alt="Gender Distribution" idth="200">
