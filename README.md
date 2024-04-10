@@ -13,6 +13,8 @@ Welcome to the Investment Decision Recommendation System documentation! This sys
 - ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![Statsmodels](https://img.shields.io/badge/Statsmodels-3766AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+
 
 ## Tasks Performed ⚙️
 
